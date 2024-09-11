@@ -5,4 +5,4 @@
 -  **RU:** 200060169
 
 ## Portafolio personal con habilidades y formulario de contacto
-La siguiente página es un portafolio personal, muestra algunos proyectos y habilidades, incluir un formulario de contacto
+La siguiente página es un portafolio personal, muestra algunos proyectos y habilidades, incluye un formulario de contacto
